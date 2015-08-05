@@ -87,7 +87,8 @@ body {
 --------------------------------- */
 
 h1, h2, h3, h4, h5, h6 {
-  line-height: 1.6;
+  line-height: 1;
+  font-family: $monospace;
 }
 
 h1 {
@@ -134,12 +135,12 @@ h6 {
   }
 }
 
-p { 
-  line-height: 1.3;
-  @include font-size(12px);
-  @include MQ(M) {
-    @include font-size(14px);
-  }
+p {
+    line-height: 1.3;
+    @include font-size(16px);
+    @include MQ(M) {
+      @include font-size(18px);
+    }
 }
 
 a {
@@ -623,8 +624,8 @@ pre {
 
 /* Gist via GitHub Pages */
 .gist .gist-file {
-  font-family: $monospace !important;//Menlo, Monaco, "Courier New", monospace !important;
   margin: 1em 0;
+  font-family: $monospace !important;
 }
 .gist .markdown-body {
   padding: 15px;
