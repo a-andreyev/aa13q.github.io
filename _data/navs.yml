@@ -1,8 +1,8 @@
-  - title: архив
+  - title: archive
     url: /archive/
-  - title: категории
+  - title: categories
     url: /categories/
-  - title: метки
+  - title: tags
     url: /tags/
-  - title: обо мне
+  - title: about
     url: /about/

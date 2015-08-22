@@ -10,3 +10,7 @@ permalink: /about/
 {% endif %}
 
 \#TODO :)
+
+My name is Alexey.
+
+Feel free to contact me at yetanothernadreyev at gmail.
