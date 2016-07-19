@@ -1,86 +1,30 @@
-# Site settings
-title: aa13q.ru
-subtitle: Alexey Andreyev
-email: yetanotherandreyev@gmail.com
-lang: ru-RU # for html lang
-description: > # this means to ignore newlines until "baseurl:"
-  Alexey Andreyev blog.
-keywords: "blog, qt, linux, semantic web, semantic desktop"
-#TODO: favicon: http://ibrother.qiniudn.com/favicon.ico
-highlighting-style: solarized-dark
-#branch: gh-pages
+# Site specific settings
+title: "aa13q.ru"
+name: "aa13q"
+keywords: "Qt, QML, Sailfish, Pebble, etc"
+# baseurl: "/"
+url: "http://aa13q.ru"
+description: "aa13q personal web page"
+cover: "/assets/img/cover.svg"
+# fanpage_id: ""
 
-# Where things are
-source:      .
-destination: ./_site
-plugins:     ./_plugins
-layouts:     ./_layouts
-data_source: ./_data
-collections: null
+# Site general settings
+lang: "en"
+lang_alternate: "ru_RU"
+# ssl: false # It will redirect to https
 
-# Handling Reading
-safe:         false
-include:      [".htaccess"]
-exclude:      [vendor]
-keep_files:   [".git", ".svn"]
-encoding:     "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+# Media
+# Just the shortname:
+# facebook: lampiaosec # Rigth
+# facebook: facebook.com/lampiaosec # Wrong
+# disqus: test
+twitter: a_andreyev
+# facebook: 
+github: a-andreyev
+google: yetanotherandreyev
 
-# Filtering Content
-show_drafts: null
-limit_posts: 0
-future:      true
-unpublished: false
-
-# Plugins
-whitelist: []
-gems:      []
-
-# Conversion
-markdown:    kramdown
-highlighter: pygments
-lsi:         false
-excerpt_separator: "<!--more-->"
-
-# Serving
-detach:  false
-port:    4000
-host:    127.0.0.1
-#baseurl: "/" # does not include hostname
-url: "http://aa13q.ru" # the base hostname & protocol for your site
-
-# Outputting
-permalink:     date
-paginate: 7
-paginate_path: /page:num
-timezone:      Europe/Moscow
-
-quiet:    false
-defaults: []
-
-# Markdown Processors
-rdiscount:
-  extensions: []
-
-redcarpet:
-  extensions: []
-
-kramdown:
-  auto_ids:       true
-  footnote_nr:    1
-  entity_output:  as_char
-  toc_levels:     1..6
-  smart_quotes:   lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-  coderay:
-    coderay_wrap:              div
-    coderay_line_numbers:      inline
-    coderay_line_number_start: 1
-    coderay_tab_width:         4
-    coderay_bold_every:        10
-    coderay_css:               style
-
-sass:
-    sass_dir: _sass
-    style: :compressed
+# Build settings
+markdown: kramdown
+permalink: /:title/
+gems:
+  - jekyll-gist

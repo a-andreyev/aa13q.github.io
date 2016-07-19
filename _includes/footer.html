@@ -1,11 +1,5 @@
-<footer class="main-footer">
-            <div class="wc-container">
-                {% include social.html %}
-            </div>
-            <p class="wc-container disclaimer">
-            &copy; {{ site.time | date: '%Y' }}
-                Theme inspired by <a 
-href="https://github.com/ibrother/jekyll-theme-ey" target="_blank">ey</a>,
-                Powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a>
-            </p>
+<footer>
+{% if page.comments %}
+	{% include disqus.html %}
+{% endif %}
 </footer>
