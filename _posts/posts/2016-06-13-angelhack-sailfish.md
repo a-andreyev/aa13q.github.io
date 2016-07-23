@@ -3,7 +3,7 @@ layout: post
 title: "AngelHack 2016 в Санкт-Петербурге: Sailfish OS IoT project"
 date: '2016-06-13'
 categories: posts
-# ru: true
+ru: true
 tags:
 - Jolla
 - Sailfish
