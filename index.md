@@ -55,14 +55,14 @@ My name is Alexey.
 
 ![photo](assets/img/aa13q.jpeg){:height="256px" width="256px"}
 
-I'm a first-year Ph.D. student from ITMO University (Saint Petersburg, Russia).
+I'm a second-year Ph.D. student from ITMO University (Saint Petersburg, Russia).
 
 I'm a linux/archlinux, C/C++/Qt/QML, Python/Ruby, KDE fan.
 Happy Jolla SailfishOS smartphone and Pebble Time smartwatch owner.
 
-I'm currently working on [SemIoT project](https://github.com/semiotproject) at [ISST lab](http://isst.ifmo.ru/en/).
+I'm currently working on personal project in a small team and looking for additional earnings.
 
-# ls contact/
+# ls contacts/
 {:id="contact"}
 
-Feel free to contact me at aa13q via telegram or ya.ru email.
+Feel free to contact me at aa13q via telegram, freenode irc or ya.ru email.
