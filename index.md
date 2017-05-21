@@ -65,4 +65,10 @@ I'm currently working on personal project in a small team and looking for additi
 # ls contacts/
 {:id="contact"}
 
-Feel free to contact me at aa13q via telegram, freenode irc or ya.ru email.
+Feel free to contact me at `aa13q` via telegram, freenode irc or ya.ru email.
+
+Donation links:
+
++ [paypal](https://paypal.me/aa13q)
++ [flattr](https://flattr.com/profile/aa13q)
++ [rocketbank.ru](https://rocketbank.ru/aa13q-alexey-andreyev)
