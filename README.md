@@ -2,7 +2,7 @@
 
 ## About
 
-The blog is about my interests, Qt/Sailfish/Archlinux-related mostly I guess.
+[The blog](http://aa13q.ru/) is about my interests, Qt/Sailfish/Archlinux-related mostly I guess.
 
 ## API 
 
