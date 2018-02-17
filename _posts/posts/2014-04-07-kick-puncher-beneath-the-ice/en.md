@@ -2,8 +2,8 @@
 layout: post
 title: Beneath The Ice
 date: '2014-04-07T01:15:00+04:00'
-categories: posts
-en: true
+categories: random
+lang: en
 tags:
 - kick puncher
 - ice

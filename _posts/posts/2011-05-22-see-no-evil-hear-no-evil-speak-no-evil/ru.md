@@ -2,8 +2,8 @@
 layout: post
 title: see no evil hear no evil speak no evil
 date: '2011-05-22T00:00:00+04:00'
-categories: posts
-ru: true
+categories: random
+lang: ru
 tags:
 - noir
 - women

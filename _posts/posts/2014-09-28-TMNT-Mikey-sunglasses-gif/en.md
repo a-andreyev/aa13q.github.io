@@ -2,8 +2,8 @@
 layout: post
 title: TMNT_Mikey_sunglasses.gif
 date: '2014-09-28T00:35:00+04:00'
-categories: posts
-en: true
+categories: random
+lang: en
 tags:
 - gif
 - sunglasses

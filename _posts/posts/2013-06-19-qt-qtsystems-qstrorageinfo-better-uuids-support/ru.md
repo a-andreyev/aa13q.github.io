@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Чтение UUID логических разделов дисков в Qt"
+title: 'Qt qtsystems module: QStorageInfo better partitions UUIDs support (Systems:
+  SystemInformation)'
+local_title: "Чтение UUID логических разделов дисков в Qt"
 date: '2013-06-19T19:08:00+04:00'
 categories: posts
-ru: true
+lang: ru
 tags:
 - Qt
 - qtsystems

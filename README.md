@@ -1,34 +1,17 @@
-# Darcli
+# aa13q: Alexey Andreyev Blog
 
-## Demo
+## About
 
-You can see this theme on [gjuniioor.github.io/darcli](https://gjuniioor.github.io/darcli)
+The blog is about my interests, Qt/Sailfish/Archlinux-related mostly I guess.
 
-## Screenshot
+## API 
 
-![Screenshot of the them](assets/img/screenshot.png)
+## Jekyll Theme
 
-## Why the name?
+The theme is based on Darcli.
 
-It's just a joke: `dark + cli`.
+That theme is intended to use to [lampiaosec website](https://lampiaosec.github.io) and after was converted to a general theme to jekyll.
 
-## Features
-
-* Categories
-* Disqus comments
-* SEO
-	* Description
-	* Keywords
-	* Open Cards to twitter, facebook, linkedin, google+ and others
-* Code post (but no highligth :] )
-* Atom **AND** RSS feeds
-
-## Warnings
-
-This is a theme intended to use to [lampiaosec website](https://lampiaosec.github.io) and after was converted to a general theme to jekyll.
-
-So, any questions, can you contact me ([@gjuniioor](https://github.com/gjuniioor)) or open a [issue](https://github.com/gjuniioor/darcli/issuesi).
-
-## License
+So, any questions, can you contact ([@gjuniioor](https://github.com/gjuniioor)) or open a [issue](https://github.com/gjuniioor/darcli/issuesi).
 
 This theme is under [GPL3](assets/LICENSE).

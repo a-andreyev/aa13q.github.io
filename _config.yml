@@ -26,5 +26,5 @@ google: yetanotherandreyev
 # Build settings
 markdown: kramdown
 permalink: /:title/
-gems:
+plugins:
   - jekyll-gist

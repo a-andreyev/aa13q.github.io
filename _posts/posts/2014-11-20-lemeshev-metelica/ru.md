@@ -2,8 +2,8 @@
 layout: post
 title: "Метелица"
 date: '2014-11-20T05:12:00+03:00'
-categories: posts
-ru: true
+categories: random
+lang: ru
 tags:
 - sergei lemeshev
 - russian music

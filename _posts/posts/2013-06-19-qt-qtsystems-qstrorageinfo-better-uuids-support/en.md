@@ -4,7 +4,7 @@ title: 'Qt qtsystems module: QStorageInfo better partitions UUIDs support (Syste
   SystemInformation)'
 date: '2014-04-06T19:08:00+04:00'
 categories: posts
-en: true
+lang: en
 tags:
 - Qt
 - qtsystems

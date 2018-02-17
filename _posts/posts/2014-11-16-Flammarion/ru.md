@@ -2,8 +2,8 @@
 layout: post
 title: гравюра Фламмариона
 date: '2014-11-16T20:23:00+03:00'
-categories: posts
-ru: true
+categories: random
+lang: ru
 tags:
 - universum
 - universe

@@ -2,26 +2,35 @@
 layout: default
 ---
 
-# ls posts/
+## ls posts/
 {:id="posts"}
 
-<ul>
-{% for post in site.categories.posts %}
+{% for random in site.categories.posts %}
+{% if random.lang == "meta" %}
 
+{% assign current_title = random.title %}
+
+### {{ random.title }}
+
+<ul>
+
+{% for random in site.categories.posts %}
+
+{% if random.lang != "meta" and random.title == current_title %}
 <li>
-{{ post.title }}
-{% if post.en %}
-:: <a href="{{ post.url }}" title="{{ post.description }}">en</a>
-{% endif %}
-{% if post.ru %}
-:: <a href="{{ post.url }}" title="{{ post.description }}">ru</a>
-{% endif %}
+<a href="{{ random.url }}" title="{{ random.title }}"> {{ random.lang }} </a>
 </li>
+{% endif %}
 
 {% endfor %}
+
 </ul>
 
-# ls projects/
+{% endif %}
+
+{% endfor %}
+
+## ls projects/
 {:id="projects"}
 
 <ul>
@@ -30,7 +39,7 @@ layout: default
 {% endfor %}
 </ul>
 
-# ls tools/
+## ls tools/
 {:id="tools"}
 
 <ul>
@@ -39,7 +48,7 @@ layout: default
 {% endfor %}
 </ul>
 
-# ls talks/
+## ls talks/
 {:id="talks"}
 
 <ul>
@@ -48,21 +57,51 @@ layout: default
 {% endfor %}
 </ul>
 
-# cat about.md
+## ls random/
+{:id="random"}
+
+{% for random in site.categories.random %}
+{% if random.lang == "meta" %}
+
+{% assign current_title = random.title %}
+
+### {{ random.title }}
+
+<ul>
+
+{% for random in site.categories.random %}
+
+{% if random.lang != "meta" and random.title == current_title %}
+<li>
+<a href="{{ random.url }}" title="{{ random.title }}"> {{ random.lang }} </a>
+</li>
+{% endif %}
+
+{% endfor %}
+
+</ul>
+
+{% endif %}
+
+{% endfor %}
+
+
+
+## cat about.md
 {:id="about"}
 
 My name is Alexey.
 
 ![photo](assets/img/aa13q.jpeg){:height="256px" width="256px"}
 
-I'm a second-year Ph.D. student from ITMO University (Saint Petersburg, Russia).
+I'm a Ph.D. student from ITMO University (Saint Petersburg, Russia).
 
-I'm a linux/archlinux, C/C++/Qt/QML, Python/Ruby, KDE fan.
+I'm a linux/archlinux, C/C++/Qt/QML, KDE fan.
 Happy Jolla SailfishOS smartphone and Pebble Time smartwatch owner.
 
-I'm currently working on personal project in a small team and looking for additional earnings.
+I'm currently working at [Open Mobile Platform](http://omprussia.ru/) and looking for additional earnings for personal projects.
 
-# ls contacts/
+## cat contacts.md
 {:id="contact"}
 
 Feel free to contact me at `aa13q` via telegram, freenode irc or ya.ru email.

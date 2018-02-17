@@ -2,8 +2,8 @@
 layout: post
 title: '451 °F'
 date: '2013-01-08T00:00:00+04:00'
-categories: posts
-ru: true
+categories: random
+lang: ru
 tags:
 - ray bradbury
 - fan art
