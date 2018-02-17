@@ -9,6 +9,7 @@ layout: null
     <link>
     {{ site.url }}</link>
     {% for post in site.posts %}
+    {% if post.lang != "meta" %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
         {% if post.excerpt %}
@@ -20,6 +21,7 @@ layout: null
         <link>{% if post.link %}{{ post.link }}{% else %}{{ site.baseurl }}{{ post.url }}{% endif %}</link>
         <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
       </item>
+    {% endif %}
     {% endfor %}
   </channel>
 </rss>

@@ -13,6 +13,7 @@ layout: null
     <name>{{ site.name }}</name>
   </author>
   {% for post in site.posts %}
+  {% if post.lang != "meta" %}
     <entry>
       <title>{{ post.title }}</title>
       <link href="{% if post.link %}{{ post.link }}{% else %}{{ site.baseurl }}{{ post.url }}{% endif %}" />
@@ -20,5 +21,6 @@ layout: null
       <id>{{ site.baseurl }}{{ post.id }}</id>
       <content type="html">{{ post.description | xml_escape }}</content>
     </entry>
+  {% endif %}
   {% endfor %}
 </feed>

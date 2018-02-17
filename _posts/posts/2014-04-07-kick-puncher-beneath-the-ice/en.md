@@ -3,6 +3,7 @@ layout: post
 title: Beneath The Ice
 date: '2014-04-07T01:15:00+04:00'
 categories: random
+comments: true
 lang: en
 tags:
 - kick puncher

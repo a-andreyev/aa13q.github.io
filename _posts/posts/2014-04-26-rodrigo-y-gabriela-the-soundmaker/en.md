@@ -3,6 +3,7 @@ layout: post
 title: The Soundmaker
 date: '2014-04-26T14:25:00+03:00'
 categories: random
+comments: true
 lang: en
 tags:
 - guitar

@@ -18,7 +18,7 @@ layout: default
 
 {% if random.lang != "meta" and random.title == current_title %}
 <li>
-<a href="{{ random.url }}" title="{{ random.title }}"> {{ random.lang }} </a>
+<a href="{{ random.url }}" title="{{ random.title }}"> {{ random.lang }} </a> :: {{ random.date | date: '%B %d, %Y' }}
 </li>
 {% endif %}
 
@@ -73,7 +73,7 @@ layout: default
 
 {% if random.lang != "meta" and random.title == current_title %}
 <li>
-<a href="{{ random.url }}" title="{{ random.title }}"> {{ random.lang }} </a>
+<a href="{{ random.url }}" title="{{ random.title }}"> {{ random.lang }} </a> :: {{ random.date | date: '%B %d, %Y' }}
 </li>
 {% endif %}
 
