@@ -32,9 +32,9 @@ It's harder to maintain a cross-platform app for Sailfish OS too.
 
 I really wanted to do it since I've bought my first Jolla phone several years ago. I've asked this question at Russian-speaking community meetups and chats. I've received feedback like:
 
-*"Hey, you can do it, but you don't need to. Sailfish have some unique UI/UX parts".*
+> Hey, you can do it, but you don't need to. Sailfish have some unique UI/UX parts.
 
-*"All the cross-platform teams I know are sharing C++ business logic and implementing native look-and-feel on every platform separately"*
+> All the cross-platform teams I know are sharing C++ business logic and implementing native look-and-feel on every platform separately.
 
 It's true and I respect this opinion. And it held me for a while... :(
 
@@ -60,11 +60,11 @@ My friend eetu, locusf and neochapay are implementing [Qt Quick Nemo Controls](h
 
 Recently we had a conversation with Kaffeine (Alexander) at Russian-speaking chat and he is supporting QQC2 ideas. He provided additional information:
 
-*Current Sailfish app requires around 1500 ms to start: 700 ms is for compiling at first start without invoker) and another 700 ms is for js-based PageStack and ApplicationWindow. Qt Quick based app requires 50 ms.*
+> Current Sailfish app requires around 1500 ms to start: 700 ms is for compiling at first start without invoker) and another 700 ms is for js-based PageStack and ApplicationWindow. Qt Quick based app requires 50 ms.
 
-*And we could move the Sailfish-specific part to Qt.SailfishExtras. [Example for material style](https://code.woboq.org/qt5/qtquickcontrols2/src/imports/controls/material/).*
+> And we could move the Sailfish-specific part to Qt.SailfishExtras. [Example for material style](https://code.woboq.org/qt5/qtquickcontrols2/src/imports/controls/material/).
 
-*QML is for the declarative part, Quick -- for UI definition. Move complex code to C++. And, yes, PageStack.js — is a complex code. [Example bench from KDAB](https://www.kdab.com/analyzing-performance-qtquick-applications/). [Another publication at woboq](https://woboq.com/blog/qml-vs-cpp-for-application-startup-time.html).*
+> QML is for the declarative part, Quick -- for UI definition. Move complex code to C++. And, yes, PageStack.js — is a complex code. [Example bench from KDAB](https://www.kdab.com/analyzing-performance-qtquick-applications/). [Another publication at woboq](https://woboq.com/blog/qml-vs-cpp-for-application-startup-time.html).
 
 So `grep -r "duration: 600" /usr/lib/qt5/qml/Sailfish/` and you could find hardcoded animation duration probably for that reasons :)
 
