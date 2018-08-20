@@ -71,11 +71,11 @@ pre {
 }
 
 .highlight {
-    color: rgba(103, 26, 69, 0.7);
+    color: rgba(103, 26, 69, 1);
 }
 
 .highlight {
-    border: 1px dashed rgba(103, 26, 69, 0.3);
+    border: 1px dashed rgba(103, 26, 69, 1);
     padding: 15px;
     background-color: #FFFFFF;
 }
