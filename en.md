@@ -13,6 +13,7 @@ My name is Alexey.
 I'm a Ph.D. student from ITMO University (Saint Petersburg, Russia).
 
 I'm interested mostly at:
+
 + linux/archlinux
 + C/C++/Qt/QML
 + KDE/Sailfish OS
