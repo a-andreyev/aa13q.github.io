@@ -1,19 +1,6 @@
----
-layout: post
-title: "Qt Quick Controls 2 Silica Style"
-date: '2018-03-13T09:15:00+3:00'
-categories: posts
-lang: en
-comments: true
-url: qqc2-silica-style
-tags:
-- Qt
-- Qt Quick Controls
-- Sailfish
-- Silica
----
+# Qt Quick Controls 2 Silica Style
 
-# Problem
+## Problem
 
 [Sailfish Silica](https://sailfishos.org/develop/docs/silica/) controls were developed when there's no such thing as Qt Quick Controls (neither [first](https://doc.qt.io/qt-5.10/qtquickcontrols-index.html) not [second](https://doc.qt.io/qt-5.10/qtquickcontrols2-index.html)).
 
@@ -26,9 +13,9 @@ that are duplicating their functions.
 It's harder to maintain a cross-platform app for Sailfish OS too.
 Аnd improvements from Qt team working on general controls are not getting to Sailfish due to that.
 
-# Researching
+## Researching
 
-## Introduction
+### Introduction
 
 I really wanted to do it since I've bought my first Jolla phone several years ago. I've asked this question at Russian-speaking community meetups and chats. I've received feedback like:
 
@@ -38,7 +25,7 @@ I really wanted to do it since I've bought my first Jolla phone several years ag
 
 It's true and I respect this opinion. And it held me for a while... :(
 
-## Real-life examples
+### Real-life examples
 
 But when I'm writing my application, I still do need to rewrite GUI completely.
 
@@ -50,7 +37,7 @@ It not very hard to write several versions. But it's harder to maintain them.
 
 There's also similar questions at TJC [[1](https://together.jolla.com/question/71520/request-qtquick-controls/),[2](https://together.jolla.com/question/98438/develop-application-using-standard-qt-modules/)] and recent [Collaboration Meeting Question](http://merproject.org/meetings/mer-meeting/2018/mer-meeting.2018-03-08-09.03.log.html) from marmistrz.
 
-## Related work
+### Related work
 
 M4rtinK have to provide [additional layer](https://github.com/M4rtinK/universal-components) his [modrana](https://github.com/M4rtinK/modrana). It is an option, but I guess if we could implement Qt Quick Controls 2 Silica style there will be no need for an additional layer.
 
@@ -70,23 +57,26 @@ So `grep -r "duration: 600" /usr/lib/qt5/qml/Sailfish/` and you could find hardc
 
 There's also [Kirigami project from KDE](https://techbase.kde.org/Kirigami) and I'm following their progress but I'm more into Silica. Kirigami is also using Qt Quick Controls 2 codebase.
 
-## Progress
+### Progress
 
 [Played with QQC2 last year](https://www.youtube.com/watch?v=mWgjSnNZxK0).
 
 Still, a lot of work needs to be done. There are also some changes made in mainline LTS 5.9 comparing to current Jolla Qt 5.6, that we have to take into account (at least make additional researching)
 
 
-## Additional/optional tasks
+### Additional/optional tasks
 
 + If we are gonna move to Qt Quick Controls 2, it will be easy to provide kind of "inverted" Silica Style, where we have a bright background and dark fonts but with fancy Silica shaders :) Since we are still refactoring Theme object, we could not hardcode on a dark theme only.
 
 + It would be super-awesome also to change default auto-generated theme main color based on wallpaper color to an opposite (in terms of hue in HLS) because it will be much more contrast and readable (always have to change auto-generated color to the opposite at my themes).
 
 
-# P.S.
+## P.S.
 
 I do really want to help to implement QQC2 on my favorite mobile OS. Sailfish Silica UI is awesome due to:
+
 + Attempts to split sensor input and display output via gestures and PulleyMenus. It's so important, obvious and handy for me that I don't even know why should I explain that. I want to thank and shake a hand to everyone who worked on it at Nokia and Jolla (and not only for that)
 + Shared Theme for the same look of applications
 + Fancy blur shaders! :)
+
+2018-03-13

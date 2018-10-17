@@ -1,22 +1,6 @@
----
-layout: post
-title: "Sailfish Xiaomi kenzo port: aarch64 kernel with armv7hl rootfs"
-date: '2017-05-20T17:27:00+3:00'
-categories: posts
-lang: en
-comments: true
-url: jolla-libzypp
-tags:
-- Sailfish
-- SailfishOS
-- PackageKit
-- pkcon
-- Xiaomi
-- kenzo
+# Sailfish Xiaomi kenzo port: aarch64 kernel with armv7hl rootfs
 
----
-
-# Problem
+## Problem
 
 I've bought Xiaomi kenzo (Redmi Note 3) nextday after I've found [XDA theme](https://forum.xda-developers.com/redmi-note-3/development/rom-sailfish-os-2-0-5-6-kenzo-t3571258) about the port and donated to [Akhil (porter)](https://github.com/akhilkalwakurthy) to support him.
 
@@ -30,7 +14,7 @@ I've never tried to port SFOS by myself yet, but I've found error with this port
 
 But zypper worked fine (zypper, Jolla Store, WareHouse)
 
-# Researching
+## Researching
 
 I've searched for code:
 
@@ -111,7 +95,7 @@ As you can see, there's no autodetect support for aarch64 even for [vanilla git 
 
 Don't know why yet, but will try to figure it out.
 
-## Solving
+### Solving
 
 So I've decided to add additional arch check manually for now at `ZConfig.cc`:
 ```
@@ -142,10 +126,12 @@ I've installed rpm with zypper and pkcon started working.
 
 Now I'm able to use qt creator SDK without any problems with RPM deployment! :)
 
-# Future work
+## Future work
 
 I'm archlinux user, so this environmet is not familiar for me yet.
 
 And maybe I'm missing something general about ARM architecture.
 
 [Going to ask Andrew Branson about current status](https://git.merproject.org/mer-core/libzypp/merge_requests/15) and will try to contribute to apropriate solution.
+
+2017-05-20

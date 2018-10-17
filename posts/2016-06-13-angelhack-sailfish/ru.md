@@ -1,17 +1,4 @@
----
-layout: post
-title: "AngelHack 2016 Saint-Petersburg: Sailfish OS IoT project"
-local_title: "AngelHack 2016 в Санкт-Петербурге: Sailfish OS IoT project"
-date: '2016-06-13'
-categories: posts
-lang: ru
-tags:
-- Jolla
-- Sailfish
-- OMP
-- Angelhack 
-
----
+# AngelHack 2016 в Санкт-Петербурге: Sailfish OS IoT project
 
 История о том, как я поучаствовал в [AngelHack 2016 в Санкт-Петербурге](http://apps4all.ru/post/06-17-16-aleksej-andreev-sailfish-iot-project-hochu-dobavit-podderzhku-golosa-v-klient-sailfish-dlya-umnyh-chasov-pebble-time),
 в котором собранная мной команда
@@ -19,7 +6,6 @@ tags:
 "на лучшее использование платформы Sailfish OS"!
 
 ![sailfish_winners](/assets/img/posts/2016-06-13-angelhack-sailfish/sailfish_winners.jpg)
-<!--more-->
 
 ## Disclamer
 
@@ -334,3 +320,5 @@ Page {
 + [Telegram: Jolla Fan Club](https://telegram.me/joinchat/AWx9iQYZwXbqA3Qwl986SQ)
 + [Silica Reference Docs](https://sailfishos.org/develop/docs/silica/sailfish-silica-all.html)
 + [Sailfish HW Adaptations status](https://wiki.merproject.org/wiki/Adaptations/libhybris)
+
+2016-06-13

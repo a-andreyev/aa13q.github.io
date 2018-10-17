@@ -1,15 +1,4 @@
----
-layout: post
-title: see no evil hear no evil speak no evil
-date: '2011-05-22T00:00:00+04:00'
-categories: random
-lang: ru
-tags:
-- noir
-- women
-
-tumblr_url: http://aa13q.tumblr.com/post/103091345850/see-no-evil-speak-no-evil-speak-no-evil
----
+# see no evil hear no evil speak no evil
 
 ![see no evil hear no evil speak no evil](/assets/img/posts/tumblr_files/tumblr_nfbhhlC06W1qg3f9lo1_1280.jpg)
 
