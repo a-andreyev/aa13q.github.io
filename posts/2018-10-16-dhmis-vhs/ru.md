@@ -36,7 +36,7 @@
 
 [![youtube results](/assets/img/posts/2018-10-16-dhmis-vhs/yt.jpg)](https://www.youtube.com/watch?v=ZhBwcMwb84c)
 
-Одну копию я отнес в бар, где предполагалось, что на ней будет надпись. Т.к. я не фанат кальянов, я написал корректором "hookah makes your teeth go grey":
+Одну копию я отнес в упомянутый бар с кальянами, где предполагалось, что на ней будет надпись. Т.к. я не фанат кальянов, я написал корректором "hookah makes your teeth go grey":
 
 ![yard](/assets/img/posts/2018-10-16-dhmis-vhs/yard.jpg)
 

@@ -37,7 +37,7 @@ Posted results on youtube:
 
 [![youtube results](/assets/img/posts/2018-10-16-dhmis-vhs/yt.jpg)](https://www.youtube.com/watch?v=ZhBwcMwb84c)
 
-I gifted a copy to a bar, where all the tapes have some marks. Since I'm not a hookah fan, I've wrote "hookah makes your teeth go grey" on my tape:
+I gifted a copy to the mentioned hookah bar, where all the tapes have some marks. Since I'm not a hookah fan, I've wrote "hookah makes your teeth go grey" on my tape:
 
 ![yard](/assets/img/posts/2018-10-16-dhmis-vhs/yard.jpg)
 
