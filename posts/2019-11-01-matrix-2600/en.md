@@ -63,9 +63,9 @@ Final task: move from federated to the peer-to-peer solution. Made communication
 
 — Yep, as we all would love to.
 
-***[external comment] The longer term goal is not only about that.***
+***[kitsune] The longer term goal is not only about that.***
 
-***[external comment] The longer term goal is to make IM communications free from the vendor lock-in environment similar to e-mail. But even that is just the part of the case :( It's probably better to access the [FAQ](https://matrix.org/faq):***
+***[kitsune] The longer term goal is to make IM communications free from the vendor lock-in environment similar to e-mail. But even that is just the part of the case :( It's probably better to access the [FAQ](https://matrix.org/faq):***
 
 ***"The longer term goal is for Matrix to act as a generic HTTP [not necessarily] messaging and data synchronisation system for the whole web - allowing people, services and devices to easily communicate with each other, empowering users to own and control their data and select the services and vendors they want to use."***
 
