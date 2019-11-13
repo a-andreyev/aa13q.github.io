@@ -439,4 +439,4 @@ Etherium, Bitcoin и многие другие используют обычны
 + [gdrive: на русском](https://docs.google.com/presentation/d/1HEYBmolqHVAg6xg7nPcrFwxvyGZ7scwpYpti75pMDok/edit?usp=sharing)
 + [gdrive: на английском](https://docs.google.com/presentation/d/1VTg13hHCAa1pdFHVh8A_-rtY3qfYTkI_yqaJM-jZwek/edit?usp=sharing)
 
-*Спасибо большое zafod и Kaffeine за вычитку и поддержку, а kitsune еще и за ценные комментарии! Схемы на слайдах были утащены из [оригинальных](https://archive.fosdem.org/2016/schedule/event/matrix/) слайдов [ara4n](https://matrix.to/#/@matthew:matrix.org), спасибо ему за них и за matrix :)*
+*Спасибо большое zafod и Kaffeine за вычитку и поддержку, а kitsune еще и за ценные комментарии! Схемы на слайдах были утащены из [оригинальных](https://archive.fosdem.org/2016/schedule/event/matrix/) слайдов [ara4n](https://matrix.to/#/@matthew:matrix.org), спасибо ему за них и за [matrix](https://www.youtube.com/watch?v=eA0KnTt4O7E) :)*

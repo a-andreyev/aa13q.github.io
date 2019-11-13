@@ -441,4 +441,4 @@ This spring they had [internal infrastructure security incident](https://matrix.
 + [gdrive: in english](https://docs.google.com/presentation/d/1VTg13hHCAa1pdFHVh8A_-rtY3qfYTkI_yqaJM-jZwek/edit?usp=sharing)
 + [gdrive: in russian](https://docs.google.com/presentation/d/1HEYBmolqHVAg6xg7nPcrFwxvyGZ7scwpYpti75pMDok/edit?usp=sharing)
 
-*Special thanks to zafod, kitsune and Kaffeine for support and kitsune for great external comments! Schemes from the slides were taken from the original [ara4n](https://matrix.to/#/@matthew:matrix.org) slides, thank him for [them](https://archive.fosdem.org/2016/schedule/event/matrix/) and the matrix :)*
+*Special thanks to zafod, kitsune and Kaffeine for support and kitsune for great external comments! Schemes from the slides were taken from the original [ara4n](https://matrix.to/#/@matthew:matrix.org) slides, thank him for [them](https://archive.fosdem.org/2016/schedule/event/matrix/) and [the matrix](https://www.youtube.com/watch?v=eA0KnTt4O7E) :)*
