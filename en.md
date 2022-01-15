@@ -10,25 +10,28 @@ My name is Alexey.
 
 ![photo](assets/img/aa13q.jpeg)
 
-I'm a Ph.D. student from ITMO University (Saint Petersburg, Russia).
+I'm a software engineer from Saint Petersburg, Russia.
 
-I'm interested mostly at:
+I'm interested mostly in open-source solutions for resource-constrained devices: operating systems, middleware, client applications. These words are not an empty phrase for me:
 
-+ linux/archlinux
-+ C/C++/Qt/QML
-+ KDE/Sailfish OS
-+ AI/semantic web/ontologies
++ GNU/Linux/Arch Linux/Manjaro/Alpine/pmOS
++ C/C++/Qt/QML/KDE
++ Sailfish OS/Aurora OS/KDE
 + multimedia
-+ history
++ AI/semantic web/ontologies
 
-I'm currently working at [Open Mobile Platform](http://omprussia.ru/) and looking for additional earnings for personal projects.
+Apart from things, directly related to cybernetics, I (poorly) try to broaden my horizons in:
+
++ cultural studies
++ media studies
 
 ## Contacts
 
-Feel free to contact me at `aa13q` via telegram, freenode irc, matrix/riot or ya.ru email.
+Feel free to contact me at `aa13q` via telegram, matrix-dot-org or ya.ru email.
 
 Donation links:
 
 + [paypal](https://paypal.me/aa13q)
 + [flattr](https://flattr.com/profile/aa13q)
-+ [rocketbank.ru](https://rocketbank.ru/aa13q-alexey-andreyev)
++ [patreon.com](https://www.patreon.com/aa13q)
++ [tinkoff.ru](https://www.tinkoff.ru/cf/3cmNivWMzWj)

@@ -1,8 +1,8 @@
 # Персональный блог aa13q
 
-## Публикации
+## Заметки
 
-[Cписок публикаций](posts/meta.md)
+[Cписок сообщений](posts/meta.md)
 
 ## Обо мне
 
@@ -10,26 +10,28 @@
 
 ![photo](assets/img/aa13q.jpeg)
 
-Я аспирант в Университете ИТМО (Санкт-Петебург).
+Я инженер-программист из Санкт-Петебурга.
 
-В основном увлекаюсь:
+В основном увлекаюсь открытыми решениями для устройств с ограниченными ресурсами: операционными системами, службами и прикладным ПО. Эти слова не пустой звук для меня:
 
-+ linux/archlinux
-+ C/C++/Qt/QML
-+ KDE/Sailfish OS
-+ AI/semantic web/ontologies
++ GNU/Linux/Arch Linux/Manjaro/Alpine/pmOS
++ C/C++/Qt/QML/KDE
++ Sailfish OS/Aurora OS/KDE
 + мультимедиа
-+ историей
++ ИИ/Семантическая паутина/онтологии
 
-Сейчас я работаю в компании [Открытая Мобильная Платформа](http://omprussia.ru/) и ищу средства на личные проекты.
+Помимо вещей, напрямую связанных с кибернетикой, я (слабо) стараюсь расширять свой кругозор и в области:
+
++ культурологии
++ медиатеории
 
 ## Контакты
 
-Не стесняйтесь писать по нику `aa13q` в telegram, freenode irc, matrix/riot или на почте ya.ru.
+Не стесняйтесь писать по нику `aa13q` в telegram, matrix-dot-org или на почту ya.ru.
 
 Ссылки для пожертвований:
 
 + [paypal](https://paypal.me/aa13q)
 + [flattr](https://flattr.com/profile/aa13q)
-+ [rocketbank.ru](https://rocketbank.ru/aa13q-alexey-andreyev)
-
++ [patreon.com](https://www.patreon.com/aa13q)
++ [tinkoff.ru](https://www.tinkoff.ru/cf/3cmNivWMzWj)
