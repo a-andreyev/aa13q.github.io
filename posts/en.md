@@ -1,5 +1,6 @@
 # Posts list
 
++ [2022-02-27: Against the war](2022-02-27-against-the-war/en.md)
 + [2019-11-01: Matrix IM @ 2600 SPb](2019-11-01-matrix-2600/meta.md)
 + [2018-10-16: DHMIS VHS Version](2018-10-16-dhmis-vhs/meta.md)
 + [2018-03-13: Qt Quick Controls 2 Silica Style](2018-03-13-qqc2-silica-style/meta.md)
