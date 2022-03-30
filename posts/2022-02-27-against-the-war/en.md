@@ -1,6 +1,6 @@
 # Against the war
 
-A message from an open-source contributor from Russia. I am against the war. Some media like twitter is blocked right now, regular VPN is not helping, it's a bit trickier.
+A message from an open-source contributor from Russia. I am against the war.
 
 I'm not ready to leave my family and relatives. I'm going to stay here in Russia and do my best against the war.
 For example, here're some open letters from the science and IT community in Russia against it:
