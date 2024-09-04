@@ -31,7 +31,8 @@
 
 Ссылки для пожертвований:
 
-+ [paypal](https://paypal.me/aa13q)
-+ [flattr](https://flattr.com/profile/aa13q)
-+ [patreon.com](https://www.patreon.com/aa13q)
++ [btc:1PLhtCbvtzmwai5ShsDcVp13coHUEv2cLD](https://bitcoinblockexplorers.com/address/1PLhtCbvtzmwai5ShsDcVp13coHUEv2cLD)
++ [usdt:TCrr7LJXwPuYtVCFoT9dG3unJ6LB58Y68T](https://tronscan.org/#/address/TCrr7LJXwPuYtVCFoT9dG3unJ6LB58Y68T)
++ [xrp:rnUUzW6pUYstcYm2yyPyVQXWDYBs85pd1p](https://xrpscan.com/account/rnUUzW6pUYstcYm2yyPyVQXWDYBs85pd1p)
++ [ton:UQBiYryqE8ZTcgIh_bIzbp2MRPRrCk7U3twgqIB0XcjfaLb0](https://tonscan.org/address/UQBiYryqE8ZTcgIh_bIzbp2MRPRrCk7U3twgqIB0XcjfaLb0)
 + [tinkoff.ru](https://www.tinkoff.ru/cf/3cmNivWMzWj)
